@@ -8,8 +8,7 @@
 
 <script lang="ts">
 
-import Tabla_oszt from "./Tabla_oszt";
-import Tabla from "./Tabla_oszt";
+import main from "./main";
 
 class Bastyak {
   static Main(): void {
